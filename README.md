@@ -3,10 +3,10 @@
 Meu primeiro projeto, uma plataforma Web para servir de Base de Conhecimento intranet da empresa que trabalho.
 
 ## Ferramentas que estou usando
-  #*Bootstrap
-  #*Laravel
-  #*GIT
-  #*Github
+  #Bootstrap
+  #Laravel
+  #GIT
+  #Github
   
 ## Objetivos
 
